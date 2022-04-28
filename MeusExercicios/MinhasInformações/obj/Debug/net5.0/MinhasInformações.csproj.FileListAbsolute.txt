@@ -1,0 +1,16 @@
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.csproj.AssemblyReference.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.AssemblyInfoInputs.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.AssemblyInfo.cs
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.csproj.CoreCompileInputs.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\bin\Debug\net5.0\MinhasInformações.exe
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\bin\Debug\net5.0\MinhasInformações.deps.json
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\bin\Debug\net5.0\MinhasInformações.runtimeconfig.json
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\bin\Debug\net5.0\MinhasInformações.runtimeconfig.dev.json
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\bin\Debug\net5.0\MinhasInformações.dll
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\bin\Debug\net5.0\MinhasInformações.pdb
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.dll
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\refint\MinhasInformações.dll
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.pdb
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\MinhasInformações.genruntimeconfig.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MinhasInformações\obj\Debug\net5.0\ref\MinhasInformações.dll

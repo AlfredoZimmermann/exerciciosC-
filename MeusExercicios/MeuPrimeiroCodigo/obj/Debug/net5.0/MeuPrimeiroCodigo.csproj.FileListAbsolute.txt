@@ -1,0 +1,16 @@
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.exe
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.deps.json
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.runtimeconfig.json
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.runtimeconfig.dev.json
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.dll
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\bin\Debug\net5.0\MeuPrimeiroCodigo.pdb
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.csproj.AssemblyReference.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.AssemblyInfoInputs.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.AssemblyInfo.cs
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.csproj.CoreCompileInputs.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.dll
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\refint\MeuPrimeiroCodigo.dll
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.pdb
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\MeuPrimeiroCodigo.genruntimeconfig.cache
+C:\Users\alfredo.zimmermann\Documents\ENTRA21\exerciciosC-\MeusExercicios\MeuPrimeiroCodigo\obj\Debug\net5.0\ref\MeuPrimeiroCodigo.dll
