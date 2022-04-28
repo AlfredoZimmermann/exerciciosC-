@@ -8,7 +8,8 @@ namespace MinhasInformações
         {
             string nome = ("Alfredo");
             int idade = 36;
-            decimal peso = 70;
+            double peso = 71.7;
+
 
             Console.WriteLine(nome);
             Console.WriteLine(idade);
